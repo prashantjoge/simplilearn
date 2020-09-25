@@ -2,3 +2,5 @@
 *.msi
 *.exe
 *.wmi
+*.arf.*
+*.crdownload
